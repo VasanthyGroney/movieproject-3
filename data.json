@@ -1,0 +1,215 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Inception",
+            "genre": [
+                "Action",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "director": "Christopher Nolan",
+            "cast": [
+                {
+                    "name": "Leonardo DiCaprio",
+                    "role": "Cobb"
+                },
+                {
+                    "name": "Joseph Gordon-Levitt",
+                    "role": "Arthur"
+                },
+                {
+                    "name": "Elliot Page",
+                    "role": "Ariadne"
+                },
+                {
+                    "name": "Tom Hardy",
+                    "role": "Eames"
+                }
+            ],
+            "release_date": "2010-07-16",
+            "duration": 148,
+            "ratings": {
+                "IMDb": 8.8,
+                "Rotten Tomatoes": 87,
+                "Metacritic": 74
+            },
+            "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO."
+        },
+        {
+            "id": 2,
+            "title": "The Matrix",
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "director": "Lana Wachowski",
+            "cast": [
+                {
+                    "name": "Keanu Reeves",
+                    "role": "Neo"
+                },
+                {
+                    "name": "Laurence Fishburne",
+                    "role": "Morpheus"
+                },
+                {
+                    "name": "Carrie-Anne Moss",
+                    "role": "Trinity"
+                },
+                {
+                    "name": "Hugo Weaving",
+                    "role": "Agent Smith"
+                }
+            ],
+            "release_date": "1999-03-31",
+            "duration": 136,
+            "ratings": {
+                "IMDb": 8.7,
+                "Rotten Tomatoes": 87,
+                "Metacritic": 73
+            },
+            "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+        },
+        {
+            "id": 3,
+            "title": "The Shawshank Redemption",
+            "genre": [
+                "Drama"
+            ],
+            "director": "Frank Darabont",
+            "cast": [
+                {
+                    "name": "Tim Robbins",
+                    "role": "Andy Dufresne"
+                },
+                {
+                    "name": "Morgan Freeman",
+                    "role": "Ellis Boyd 'Red' Redding"
+                },
+                {
+                    "name": "Bob Gunton",
+                    "role": "Warden Norton"
+                },
+                {
+                    "name": "William Sadler",
+                    "role": "Heywood"
+                }
+            ],
+            "release_date": "1994-09-22",
+            "duration": 142,
+            "ratings": {
+                "IMDb": 9.3,
+                "Rotten Tomatoes": 91,
+                "Metacritic": 80
+            },
+            "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+        },
+        {
+            "id": 4,
+            "title": "Noah",
+            "genre": [],
+            "director": "Vasa",
+            "cast": [],
+            "release_date": "2023",
+            "duration": 80,
+            "ratings": {
+                "IMDb": 9.0,
+                "Rotten Tomatoes": 0,
+                "Metacritic": 0
+            },
+            "synopsis": ""
+        },
+        {
+            "id": 5,
+            "title": "water",
+            "genre": [],
+            "director": "",
+            "cast": [],
+            "release_date": "1908",
+            "duration": 0,
+            "ratings": {
+                "IMDb": 9.0,
+                "Rotten Tomatoes": 0,
+                "Metacritic": 0
+            },
+            "synopsis": ""
+        },
+        {
+            "id": 6,
+            "title": "The end",
+            "genre": [],
+            "director": "",
+            "cast": [],
+            "release_date": "unknow",
+            "duration": 0,
+            "ratings": {
+                "IMDb": 9.0,
+                "Rotten Tomatoes": 0,
+                "Metacritic": 0
+            },
+            "synopsis": ""
+        },
+        {
+            "id": 7,
+            "title": "new Jeruselam",
+            "genre": [],
+            "director": "",
+            "cast": [],
+            "release_date": "unknown",
+            "duration": 0,
+            "ratings": {
+                "IMDb": 10.0,
+                "Rotten Tomatoes": 0,
+                "Metacritic": 0
+            },
+            "synopsis": ""
+        },
+        {
+            "id": 8,
+            "title": "seven ",
+            "genre": [],
+            "director": "",
+            "cast": [],
+            "release_date": "1985",
+            "duration": 0,
+            "ratings": {
+                "IMDb": 7.0,
+                "Rotten Tomatoes": 0,
+                "Metacritic": 0
+            },
+            "synopsis": ""
+        },
+        {
+            "id": 9,
+            "title": "jhgjhghj",
+            "genre": [],
+            "director": "",
+            "cast": [],
+            "release_date": "1986",
+            "duration": 0,
+            "ratings": {
+                "IMDb": 8.0,
+                "Rotten Tomatoes": 0,
+                "Metacritic": 0
+            },
+            "synopsis": ""
+        },
+        {
+            "id": 10,
+            "title": "Vasanthy",
+            "genre": [],
+            "director": "",
+            "cast": [],
+            "release_date": "2009",
+            "duration": 0,
+            "ratings": {
+                "IMDb": 8.0,
+                "Rotten Tomatoes": 0,
+                "Metacritic": 0
+            },
+            "synopsis": ""
+        }
+    ]
+
+}
